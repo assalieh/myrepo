@@ -1,4 +1,4 @@
-
+#/usr/bin/python
 
 hungry=input("are you hungry? :")
 if hungry == "y":
